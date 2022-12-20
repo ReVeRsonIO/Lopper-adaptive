@@ -12,7 +12,7 @@ body{
     margin: auto;
 }
 .header-bg {
-    background-image: url(/images/bgImage.png);
+    background-image: url(images/bgImage.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -123,7 +123,7 @@ body{
     width: 21px;
     height: 46px;
     
-    background-image:url(/images/icons/arrow.svg);
+    background-image:url(images/icons/arrow.svg);
     transform: rotate(270deg);
     background-position: center;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@ body{
     margin-right: 62px;
 }
 .subheader__btn {
-    background-image: url(/images/icons/second.svg);
+    background-image: url(images/icons/second.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -328,7 +328,7 @@ background-color: #150433;
 .our-clients {
     margin-top: 250px;
     height: 648px;
-    background-image: url("/images/our-clients-BG.png");
+    background-image: url("images/our-clients-BG.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
